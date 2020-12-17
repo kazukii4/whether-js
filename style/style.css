@@ -1,0 +1,52 @@
+input{
+    text-align: center;
+    margin: 20px auto;
+    position: absolute;
+  }
+  
+button{
+    padding: 15px 30px;
+    background: #93e27a;
+    border: none;
+    border-radius: 1px;
+    font-family: "Nunito",sans-serif;
+    font-weight:bold;
+    font-size: 20px;
+  } 
+#city{
+    position: relative;
+    width: 600px;
+    height: 55px;
+    padding: 5px 10px;
+    margin-left: 31.5%;
+    background: #e6bb6b;
+    border: none;
+    border-radius: 1px;
+    font-family: "Nunito",sans-serif;
+    font-weight:bold;
+    font-size: 20px;
+  }
+  
+#div{
+    background: #d8d664;
+    height: 16hv;
+    margin: 80px auto;
+    border-radius: 2px;
+  }
+  
+#div h3{
+    padding: 2px 0;
+    text-align: center;
+  }
+  
+#div h4{
+    text-align: center;
+    margin:40px 0;
+    font-size:20px;
+  }
+
+#map{
+      margin-left: 35%;
+      width: 700px;
+      height: 500px;
+  }
